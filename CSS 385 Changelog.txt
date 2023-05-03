@@ -1,0 +1,4 @@
+26 April 2023: Added Radius shadow to tower during placement.
+27 April 2023: UI Improvements, Bank and Healthbar implementation
+28 April 2023: Turret shop price implementation
+1 May 2023: Final Turret Implementations and Game Over Scene
