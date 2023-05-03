@@ -115,7 +115,7 @@ public class Shop : MonoBehaviour
         radiusRenderer.sortingOrder = 0;
         circlePreview.transform.localPosition = Vector3.zero;
         circlePreview.transform.parent = turretPreview.transform;
-        circlePreview.transform.localScale = Vector3.one * 50f;
+        circlePreview.transform.localScale = Vector3.one * 20f;
     }
 
     void CreateTurretB()
@@ -137,7 +137,7 @@ public class Shop : MonoBehaviour
         radiusRenderer.sortingOrder = 0;
         circlePreview.transform.localPosition = Vector3.zero;
         circlePreview.transform.parent = turretPreview.transform;
-        circlePreview.transform.localScale = Vector3.one * 50f;
+        circlePreview.transform.localScale = Vector3.one * 25f;
     }
 
     void CreateTurretC()
@@ -159,7 +159,7 @@ public class Shop : MonoBehaviour
         radiusRenderer.sortingOrder = 0;
         circlePreview.transform.localPosition = Vector3.zero;
         circlePreview.transform.parent = turretPreview.transform;
-        circlePreview.transform.localScale = Vector3.one * 50f;
+        circlePreview.transform.localScale = Vector3.one * 40f;
     }
 
     void BuyTurret(char buyTurret)
